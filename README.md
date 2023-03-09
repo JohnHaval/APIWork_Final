@@ -3,3 +3,4 @@
 netsh firewall add portopening TCP 5000 IISExpressWeb enable ALL
 или
 netsh firewall add portopening TCP 5000 IISExpress enable ALL
+https не работает с другого устройства (только с хоста)
